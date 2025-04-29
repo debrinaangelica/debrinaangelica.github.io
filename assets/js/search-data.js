@@ -394,6 +394,11 @@ ninja.data = [{
           description: "24672 ps3",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-swell-graphic-design-and-layout",
+          title: 'swell graphic design and layout',
+          description: "24672 ps3a",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
