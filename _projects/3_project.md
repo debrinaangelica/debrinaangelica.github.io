@@ -43,7 +43,7 @@ The following images show the design process of creating this product. I started
     Sketches for product ideation and dimension calculations.
 </div>
 
-Next, I drew the layout for the parts on AutoCAD and created a prototype out of scrap cardboard. 
+Next, I drew the layout for the parts on AutoCAD and created a prototype out of scrap cardboard.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
