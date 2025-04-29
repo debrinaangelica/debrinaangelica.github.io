@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "24-672 problem sets",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -389,6 +389,11 @@ ninja.data = [{
           description: "24672 ps2",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-desk-mount-dilemma",
+          title: 'desk mount dilemma',
+          description: "24672 ps3",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
