@@ -20,7 +20,7 @@ For this project, we had to design a product poster for the swell waterbottle. B
     Swell waterbottle product poster.
 </div>
 
-The following images show the design process of creating this poster. I started by creating some wireframe ideas to decide where I would place the poster elements. I also thought of some ideas for a slogan, and eventually decided to use "we're Swell" due to it's simplcity and catchiness.
+The following images show the design process of creating this poster. I started by creating some wireframe ideas to decide where I would place the poster elements. I also thought of some ideas for a slogan, and eventually decided to use "we're Swell" due to its simplcity and catchiness.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
