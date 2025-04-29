@@ -69,7 +69,6 @@ Next, I drew the layout for the parts on AutoCAD and created a prototype out of 
     Product prototype made from scrap material.
 </div>
 
-
 I also created a product poster to advertise the laptop stand.
 
 <div class="row">
